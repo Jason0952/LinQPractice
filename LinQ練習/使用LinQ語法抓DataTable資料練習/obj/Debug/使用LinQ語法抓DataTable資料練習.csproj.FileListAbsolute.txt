@@ -1,0 +1,5 @@
+D:\LinQ練習\使用LinQ語法抓DataTable資料練習\bin\Debug\使用LinQ語法抓DataTable資料練習.exe.config
+D:\LinQ練習\使用LinQ語法抓DataTable資料練習\bin\Debug\使用LinQ語法抓DataTable資料練習.exe
+D:\LinQ練習\使用LinQ語法抓DataTable資料練習\bin\Debug\使用LinQ語法抓DataTable資料練習.pdb
+D:\LinQ練習\使用LinQ語法抓DataTable資料練習\obj\Debug\使用LinQ語法抓DataTable資料練習.exe
+D:\LinQ練習\使用LinQ語法抓DataTable資料練習\obj\Debug\使用LinQ語法抓DataTable資料練習.pdb

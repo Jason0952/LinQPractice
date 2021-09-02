@@ -1,0 +1,6 @@
+D:\LinQ練習\LinQ練習\bin\Debug\LinQ練習.exe.config
+D:\LinQ練習\LinQ練習\bin\Debug\LinQ練習.exe
+D:\LinQ練習\LinQ練習\bin\Debug\LinQ練習.pdb
+D:\LinQ練習\LinQ練習\obj\Debug\LinQ練習.exe
+D:\LinQ練習\LinQ練習\obj\Debug\LinQ練習.pdb
+D:\LinQ練習\LinQ練習\obj\Debug\LinQ練習.csprojResolveAssemblyReference.cache

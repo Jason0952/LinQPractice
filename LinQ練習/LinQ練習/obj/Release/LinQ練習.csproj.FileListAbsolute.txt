@@ -1,0 +1,5 @@
+D:\LinQ練習\LinQ練習\bin\Release\LinQ練習.exe.config
+D:\LinQ練習\LinQ練習\bin\Release\LinQ練習.exe
+D:\LinQ練習\LinQ練習\bin\Release\LinQ練習.pdb
+D:\LinQ練習\LinQ練習\obj\Release\LinQ練習.exe
+D:\LinQ練習\LinQ練習\obj\Release\LinQ練習.pdb
